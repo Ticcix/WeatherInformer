@@ -10,7 +10,9 @@ Key generation page, ``` https://home.openweathermap.org/api_keys ```
 ``` [weather-block city="..."] ... [/weather-block] ``` - Defines an informer block. In the city parameter, enter the name of the city in **English**. In each block, for each country, the following tags apply.
 
 ``` {weather-temp} ```- **Temperature**
+
 ``` {weather-value ```} - **Weather**
+
 ``` {weather-icon} ``` - **[{THEME}/weather/icons/{weather-icon}.png]**
 ``` {weather-country} ``` - **Two-character country code**
 ``` {weather-humidity} ``` - **Humidity**
