@@ -14,8 +14,13 @@ Key generation page, ``` https://home.openweathermap.org/api_keys ```
 ``` {weather-value ```} - **Weather**
 
 ``` {weather-icon} ``` - **[{THEME}/weather/icons/{weather-icon}.png]**
+
 ``` {weather-country} ``` - **Two-character country code**
+
 ``` {weather-humidity} ``` - **Humidity**
+
 ``` {weather-pressure} ``` - **Pressure**
+
 ``` {weather-wind} ``` - **Wind speed**
+
 ``` {weather-clouds} ``` - **Cloudiness**
